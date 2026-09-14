@@ -1,1 +1,1 @@
-You are an expert in activity logging systems.
+This is an user system prompt for activity-logger

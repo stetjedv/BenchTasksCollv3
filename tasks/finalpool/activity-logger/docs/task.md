@@ -1,1 +1,5 @@
-Please help manage the activity logs for the company.
+# Task: activity-logger
+
+## Description
+Complete the implementation for activity-logger
+
